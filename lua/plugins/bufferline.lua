@@ -1,6 +1,7 @@
 return {
   "akinsho/bufferline.nvim",
-  version = "4.5.0",
+  -- version = "4.5.3",
+  branch = "main",
   event = "VeryLazy",
   keys = {
     { "<leader>bp", "<Cmd>BufferLineTogglePin<CR>", desc = "Toggle Pin" },
